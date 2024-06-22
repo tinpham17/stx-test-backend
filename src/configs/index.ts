@@ -1,0 +1,1 @@
+export const CHECK_SERVER_ONLINE_TIMEOUT = 5000
